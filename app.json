@@ -1,0 +1,14 @@
+{
+  "expo": {
+   "name": "delta",
+   "icon": "./logo.png",
+   "version": "1.0.0",
+   "sdkVersion": "34.0.0",
+   "android": {
+    "package": "com.pause.delta"
+  },
+   "ios": {
+     "bundleIdentifier": "com.pause.delta"
+   }
+  }
+}
